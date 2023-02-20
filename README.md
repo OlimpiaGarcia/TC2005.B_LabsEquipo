@@ -22,3 +22,11 @@ Ricardo Cortés Espinosa
 | José Diego Llaca Castro           | A01704793 |
 | Olimpia Helena García Huerta      | A01708462 |
 | Yuna Chung .                      | A01709043 |
+
+## Descripción
+
+En este repositorio se encuentran los laboratorios grupales de la materia TC2005B.401 - Construcción de Software y Toma de Decisiones.
+
+## Table of Contents
+
+- Caso de Estudio: Requisitos de Software (All About Pools)
