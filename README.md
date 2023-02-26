@@ -30,3 +30,4 @@ En este repositorio se encuentran los laboratorios grupales de la materia TC2005
 ## Table of Contents
 
 - Caso de Estudio: Requisitos de Software (All About Pools)
+- Caso de Estudio: Farmacéutica y Liga de Fútbol
